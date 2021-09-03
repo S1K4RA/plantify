@@ -1,0 +1,1 @@
+export const NavWrapper = style.nav
